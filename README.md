@@ -32,7 +32,6 @@ raiz/
 # Execução
 
 ```bash$ 
-$ cd ..
 $ docker-compose up -d --build 
 ```
 
